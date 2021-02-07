@@ -1,7 +1,9 @@
+# Requirements
 !sudo apt install tesseract-ocr
 !apt install libtesseract-dev
 !pip install Pillow
 !pip install pytesseract
+##
 
 import cv2
 import pytesseract
